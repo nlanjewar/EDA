@@ -1,0 +1,6 @@
+Sr.No,tag_name,alias,table_name,min_value,max_value,min_percentile,max_percentile,std_dev,impute_method
+1,38_15A-T4764,DP2_tag_1,icap_dependent_table_dp2,74.77748,178.07094,0.05,0.95,3,mean
+2,38_15A-F4013,DP2_tag_2,icap_dependent_table_dp2,0.061987334,1188.745,0.05,0.95,3,mean
+3,38_15A-F8655,ID1_tag_3,icap_independent_table_id1,0.66652381,4798.2492,0.05,0.95,3,mean
+4,38_15A-F8513,ID2_tag_4,icap_independent_table_id2,0.053309758,1235.976,0.05,0.95,3,mean
+5,38_15A-CV4738,ID2_tag_5,icap_independent_table_id2,6.67E-07,710.3642,0.05,0.95,3,mean
